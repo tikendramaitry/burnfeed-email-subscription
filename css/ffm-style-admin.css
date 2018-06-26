@@ -1,0 +1,8 @@
+#ffm_options_form td:first-child{
+	width:35%;
+	vertical-align:top;
+	font-weight:bold;
+}
+#ffm_options_form input[type="text"]{
+	width:250px;
+}
